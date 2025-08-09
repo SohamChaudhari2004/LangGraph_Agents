@@ -1,1 +1,7 @@
 langgraph
+langchain
+langchain-mistralai
+langchain-community
+python-dotenv
+pypdf2
+langchain-core
